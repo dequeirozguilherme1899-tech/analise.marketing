@@ -65,7 +65,7 @@ Análise de gastos por país e ao longo dos anos:
 
 ## 📁 Arquivos do Repositório
 
-- `lab02.pbix` — Arquivo principal do projeto no Power BI
+- `lab04.pbix` — Arquivo principal do projeto no Power BI
 - `README.md` — Documentação do projeto
 - `dashboard/` — Imagens dos dashboards
 
