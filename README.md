@@ -1,6 +1,6 @@
 # 📊 Análise de Campanhas de Marketing com Power BI
 
-Este mini-projeto apresenta uma introdução prática à análise de campanhas de marketing utilizando o Power BI, seguindo o padrão de qualidade da Data Science Academy (DSA). O objetivo é explorar dados customizados sobre clientes e campanhas realizadas por uma empresa, aplicando técnicas de modelagem, visualização e análise de indicadores.
+Este projeto apresenta uma análise de campanhas de marketing utilizando o Power BI. O objetivo é explorar dados customizados sobre clientes e campanhas realizadas por uma empresa, aplicando técnicas de modelagem, visualização e análise de indicadores.
 
 ---
 
@@ -54,20 +54,21 @@ Análise de gastos por país e ao longo dos anos:
 
 ---
 
-## 📷 Exemplos de Dashboards
+## 📷 Dashboards
 
-![Visão do Cliente](dashboard/dashboard-visao-cliente.png)
-![Comportamento de Compra](dashboard/dashboard-comportamento.png)
-![Performance das Campanhas](dashboard/dashboard-performance.png)
-![Ponto de Venda](dashboard/dashboard-ponto-venda.png)
+![Visão do Cliente](Imagens/dashboard-visao-cliente.png)
+![Comportamento de Compra](Imagens/dashboard-comportamento.png)
+![Performance das Campanhas](Imagens/dashboard-performance.png)
+![Ponto de Venda](Imagens/dashboard-ponto-venda.png)
 
 ---
 
 ## 📁 Arquivos do Repositório
 
-- `lab04.pbix` — Arquivo principal do projeto no Power BI
+- `Dashboard/` — Arquivo principal do projeto no Power BI
 - `README.md` — Documentação do projeto
-- `dashboard/` — Imagens dos dashboards
+- `Imagens/` — Imagens dos dashboards
+- `Data/` — Dados
 
 ---
 
