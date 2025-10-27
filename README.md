@@ -1,6 +1,7 @@
 # 📊 Análise de Campanhas de Marketing com Power BI
 
-Este projeto apresenta uma análise de campanhas de marketing utilizando o Power BI. O objetivo é explorar dados customizados sobre clientes e campanhas realizadas por uma empresa, aplicando técnicas de modelagem, visualização e análise de indicadores.
+Este projeto apresenta uma análise de **campanhas de marketing** utilizando o **Power BI**, com base em um conjunto de dados disponibilizado pela **Data Science Academy**.  
+O objetivo é explorar informações customizadas sobre **clientes** e **campanhas realizadas por uma empresa**, aplicando técnicas de **modelagem de dados**, **visualização interativa** e **análise de indicadores estratégicos**.
 
 ---
 
