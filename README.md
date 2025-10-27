@@ -68,7 +68,7 @@ Análise de gastos por país e ao longo dos anos:
 - `Dashboard/` — Arquivo principal do projeto no Power BI
 - `README.md` — Documentação do projeto
 - `Imagens/` — Imagens dos dashboards
-- `Data/` — Dados
+- `Data/` — Dados do projeto
 
 ---
 
